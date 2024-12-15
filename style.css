@@ -1,0 +1,48 @@
+
+ 
+.home{
+    height: 800px;
+    background-color: #dca26c;
+    
+}
+.watch{
+    height: 800px;
+    background-color: #ac8e6c;
+}
+.shoes{
+    height: 800px;
+    background-color: #dca26c;
+}
+.foot{
+    height: 420px;
+    background-color: #ac8e6c;
+}
+h3{
+    color: #473c38;
+}
+.footer1{
+    height: 50px;
+    background-color: #473c38;
+}
+#p1{
+    font-size: 60px;
+
+}
+#b1{
+    border-color: #473c38;
+    color: black;
+    font-weight: 30px;
+    width: 85%;
+    height: 35px;
+    background: none;
+}
+#w1{
+    border-radius: 25px;
+    width: 250x;
+    height: 250px;
+}
+#w1:hover{
+    border-radius: 0%;
+    border: 20px black;
+    
+}
